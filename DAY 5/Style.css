@@ -1,0 +1,15 @@
+.bg-gray-transparent {
+	background-color: rgba(0,0,0,0.3);
+}
+
+.carousel {
+	font-family: 'Bellota Text', cursive;
+	font-family: 'Baloo Chettan 2', cursive;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+#bg-img {
+	background-image: url('../surf-3.jpg');
+	background-position: center center;
+}
